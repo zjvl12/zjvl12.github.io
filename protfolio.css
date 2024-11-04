@@ -77,27 +77,7 @@ h4 {
 }
 
 
-@media screen and (max-width : 992px) {
-    .main-iphone{
-        width: 260px;
-        display: block;
-        float: none;
-        margin: auto;
-        margin-top: 42px;
-    }
-    .main-text {
-        float: none;
-        margin-top: 50px;
-        text-align: center;
-    }
-    .service-items div {
-        width: 100%;
-  }
-    .portfolio-item1 {
-        float: none;
-        width: 100%;
-    }
-}
+
 
 .protfolio {
     padding-top: 60px;
@@ -128,4 +108,27 @@ h4 {
 .show-box {
     margin: 50px;
     text-align: center;
+}
+
+
+@media screen and (max-width : 992px) {
+    .main-iphone{
+        width: 260px;
+        display: block;
+        float: none;
+        margin: auto;
+        margin-top: 42px;
+    }
+    .main-text {
+        float: none;
+        margin-top: 50px;
+        text-align: center;
+    }
+    .service-items div {
+        width: 100%;
+  }
+    .portfolio-item1 {
+        float: none;
+        width: 100%;
+    }
 }
